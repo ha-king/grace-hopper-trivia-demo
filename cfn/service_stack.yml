@@ -8,7 +8,7 @@ Parameters:
                  to locate and reference resources created by that stack.
   ServiceName:
     Type: String
-    Default: ghc-2020
+    Default: ghc-2022
     Description: Service name
   ImageUrl:
     Type: String
